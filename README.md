@@ -53,3 +53,4 @@ Enterprise architect is the very highly abstracted architect responsible for the
  
 ## Bossacorp roadmap
 - Bossacorp takes this project as experiment repository
+And Jira integration
